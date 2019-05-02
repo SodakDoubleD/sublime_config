@@ -1,0 +1,3 @@
+{
+  "Database Sizes": "SELECT datname, pg_size_pretty(pg_database_size(pg_database.datname)), pg_database_size(pg_database.datname)/4643112008*11 || ' mins' AS estimated_restore_time FROM pg_database ORDER BY datname;"
+}

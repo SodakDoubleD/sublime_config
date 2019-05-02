@@ -1,0 +1,45 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.sql"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		},
+		{
+			"characters": ".",
+			"selector": "source.ts"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Dank Neon/Dank_Neon.tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"extra_paths":
+	[
+		"C:\\src\\leds\\branches\\unstable\\ztoolkit\\python",
+		"C:\\src\\leds\\branches\\unstable\\thirdparty"
+	],
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"Emmet",
+		"SQLExec",
+		"Vintage"
+	],
+	"mini_diff": false,
+	"python_interpreter": "C:\\Python27\\leds_python.exe",
+	"save_on_focus_lost": true,
+	"show_line_endings": true,
+	"theme": "Tech49.sublime-theme"
+}

@@ -1,0 +1,22 @@
+{
+
+	"connections": {
+		"Connection leds_ddirkson": {
+			"type"    : "pgsql",
+			"host"    : "zt-dev-4",
+			"port"    : 5432,
+			"username": "postgres",
+			"password": "",
+			"database": "leds_ddirkson"
+		},
+		"Connection leds_ddirkson2": {
+			"type"    : "pgsql",
+			"host"    : "zt-dev-4",
+			"port"    :  5432,
+			"username": "postgres",
+			"password": "",
+			"database": "leds_ddirkson2"
+		}
+	}
+}
+

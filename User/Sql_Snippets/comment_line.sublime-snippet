@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[-- =============================================================================
+-- ZS-]]></content>
+    <tabTrigger>--=</tabTrigger>
+    <scope>source.sql</scope>
+</snippet>

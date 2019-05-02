@@ -1,0 +1,11 @@
+[
+	{ "keys": ["shift+alt+p"], "command": "prompt_select_workspace"},
+	{ "keys": ["alt+shift+h"], "command": "bh_toggle_high_visibility" },
+	{ "keys": ["alt+up"], "command": "increment" },
+	{ "keys": ["alt+shift+up"], "command": "increment_ten" },
+	{ "keys": ["alt+down"], "command": "decrement" },
+	{ "keys": ["alt+shift+down"], "command": "decrement_ten" },
+	{ "keys": ["ctrl+shift+'"], "command": "change_quotes" },
+	{ "keys": ["ctrl+shift+o"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
+	{ "keys": ["alt+shift+t"], "command": "open_file", "args": {"file": "C:\\src\\leds\\branches\\unstable\\project_layout.todo"}}
+]

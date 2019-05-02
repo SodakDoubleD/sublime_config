@@ -1,0 +1,6 @@
+// SublimeLinter Settings - User
+{
+	"debug": true,
+	"lint_mode": "save",
+	"highlights.time_to_idle": 2000,
+}
